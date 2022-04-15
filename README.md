@@ -21,7 +21,7 @@ INDICE
 
     1.6. AMBITO DEL PROYECTO
 
-         1.6.1 Area
+        1.6.1 Area
   
         1.6.2 Recursos Humanos
 
