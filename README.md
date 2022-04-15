@@ -9,7 +9,7 @@ INDICE
 
 1.Aspectos de la Organizacion
 
-    1.1. VISION
+    1. VISION
 
     1.2. MISION
 
