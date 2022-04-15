@@ -1,7 +1,7 @@
 # ISW_UCV_REPO2022_1
 ### CONTENIDO DEL TRABAJO
 
-"Desarrollo del sistema de informacion para el desarrollo de atencion de G & S AUTOMATIC SOLUTIONS S.A.C."
+"Desarrollo del sistema de informacion para el desarrollo de atencion e inventario de la Empresa G & S AUTOMATIC SOLUTIONS S.A.C."
 
 INTRODUCCION
 
@@ -9,17 +9,17 @@ INDICE
 
 1.Aspectos de la Organizacion
 
-    1. VISION
+    1.1 VISION
 
-    2. MISION
+    1.2. MISION
 
-    3. OBJETIVOS
+    1.3. OBJETIVOS
 
-    4. ANTECEDENTES
+    1.4. ANTECEDENTES
 
-    5. 0RGANIGRAMA
+    1.5. 0RGANIGRAMA
 
-    6. AMBITO DEL PROYECTO
+    1.6. AMBITO DEL PROYECTO
 
         1.6.1 Area
   
