@@ -40,6 +40,9 @@ INDICE
     3.1. Modelo de Requerimientos.
    
         3.1.1 Cuasro de Requerimientos Funcionales, indicando: identificativo, nombre y descripción.
+        ![image](https://user-images.githubusercontent.com/82493473/163632197-fddea492-24da-46b3-ade1-ed8cafe2bab6.png)
+
+        
       
         3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
       
