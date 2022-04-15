@@ -1,6 +1,8 @@
 # ISW_UCV_REPO2022_1
 ### CONTENIDO DEL TRABAJO
 
+"Desarrollo del sistema de informacion para el desarrollo de atencion de G & S AUTOMATIC SOLUTIONS S.A.C."
+
 INTRODUCCION
 
 INDICE
