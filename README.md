@@ -9,17 +9,17 @@ INDICE
 
 1.Aspectos de la Organizacion
 
-  1. VISION
+  1.1. VISION
 
-  2. MISION
+  1.2. MISION
 
-  3. OBJETIVOS
+  1.3. OBJETIVOS
 
-  4. ANTECEDENTES
+  1.4. ANTECEDENTES
 
-  5. 0RGANIGRAMA
+  1.5. 0RGANIGRAMA
 
-  6. AMBITO DEL PROYECTO
+  1.6. AMBITO DEL PROYECTO
 
       1.6.1 Area
 
@@ -39,18 +39,18 @@ INDICE
  
    3.1. Modelo de Requerimientos.
    
-      3.1.1 Cuasro de Requerimientos Funcionales, indicando: identificativo, nombre y descripción.
+        3.1.1 Cuasro de Requerimientos Funcionales, indicando: identificativo, nombre y descripción.
       
-      3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
+        3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
       
-      3.1.3 Relación de actores y su descripción, cuadro indicando
-        
-      3.1.4 Relación de casos de uso, cuadro indicando:
+        3.1.3 Relación de actores y su descripción, cuadro indicando
+         
+        3.1.4 Relación de casos de uso, cuadro indicando:
       
-      3.1.5 Modelo de Casos de Uso de Requerimientos.
+        3.1.5 Modelo de Casos de Uso de Requerimientos.
       
-      3.1.6 Plantilla de especificación de casos de uso.
+        3.1.6 Plantilla de especificación de casos de uso.
       
-      3.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
+        3.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
       
-      3.1.8 Modelo Conceptual de Clases.
+        3.1.8 Modelo Conceptual de Clases.
