@@ -45,7 +45,9 @@ INDICE
    
         3.1.1 Cuadro de Requerimientos Funcionales, indicando: identificativo, nombre y descripción.
         
-        [![REQ-FUN.png](https://i.postimg.cc/zGVQGhsm/REQ-FUN.png)](https://postimg.cc/sMCmnMfK)
+        $ git commit -a -m "agregar imagen Cómo subir imágenes al repositorio [![REQ-FUN.png](https://i.postimg.cc/zGVQGhsm/REQ-FUN.png)](https://postimg.cc/sMCmnMfK)"
+
+
              
       
         3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
