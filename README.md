@@ -43,7 +43,7 @@ INDICE
   
         1.6.2 Recursos Humanos
         
-        ![image](https://user-images.githubusercontent.com/103231199/163661359-299d3adb-1361-4ec1-8e47-2b46577febf8.png) 
+        [![Recursos-Humanos.png](https://i.postimg.cc/15b0MCw3/Recursos-Humanos.png)](https://postimg.cc/56qF2msh)
        
         
         1.6.3 Software
