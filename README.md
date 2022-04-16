@@ -42,7 +42,11 @@ INDICE
             productos estan diseñados para tiendas,viviendas, empresas, etc., para reducir los robos.
   
         1.6.2 Recursos Humanos
-        [![Recursos-Humanos.png](https://i.postimg.cc/15b0MCw3/Recursos-Humanos.png)](https://postimg.cc/56qF2msh)
+        
+[![Recursos-Humanos.png](https://i.postimg.cc/15b0MCw3/Recursos-Humanos.png)](https://postimg.cc/56qF2msh)
+       
+        
+       
        
         
         1.6.3 Software
