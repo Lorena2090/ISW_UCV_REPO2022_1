@@ -11,12 +11,13 @@ INDICE
 
     1.1 VISION
         Consolidarse como emppres lider en Perú y brindar soluciones integrales, ingenieria y construcción.
-        Siendo reconocido por la calidad de sus servicios y productos, buenas practicas en ingenieria, innovacion tecnologica, 
-        excelencia profesional y satisfaccion de nuestros clientes
+        Siendo reconocido por la calidad de sus servicios y productos, buenas practicas en ingenieria, 
+        innovacion tecnologica, excelencia profesional y satisfaccion de nuestros clientes
 
     1.2. MISION
-         Resolver y satisfacer las necesidades de servicios de sistemas integrales, ingenieria, construccion de nuestros clientes.
-         Operando en un entorno de crecimiento y motivacion a nuestros trabajadores, comprometido con el desarrollo social y ambiental.
+         Resolver y satisfacer las necesidades de servicios de sistemas integrales, ingenieria, construccion 
+         de nuestros clientes. Operando en un entorno de crecimiento y motivacion a nuestros trabajadores, 
+         comprometido con el desarrollo social y ambiental.
          
     1.3. OBJETIVO
          Obtener una mayor procutividad
@@ -25,9 +26,9 @@ INDICE
          Alcanzar a los clientes adecuados
 
     1.4. ANTECEDENTES
-         Somos un grupo de estudiantes con una gran vision por la tecnologia y los programas de software, con el fin de poder resolvder problemas
-         de las empresas en sus procesos de: ventas, produccion, logistica, entre otros.
-         comenzamos ah inicios del 2022 con muchas ideas nuevas y tecnologicas.
+         Somos un grupo de estudiantes con una gran vision por la tecnologia y los programas de software, con 
+         el fin de poder resolver problemas de las empresas en sus procesos de: ventas, produccion, logistica, 
+         entre otros, comenzamos ah inicios del 2022 con muchas ideas nuevas y tecnologicas.
 
     1.5. 0RGANIGRAMA
   																
@@ -40,9 +41,10 @@ INDICE
     1.6. AMBITO DEL PROYECTO
 
         1.6.1 Area
-            El área donde se va a realizar nustro proyecto es el de Seguridad Electrónica, donde se realizan diversos procesos.
-            Está área es fundamental ya que día a día presenciamos alto porcentaje de delincuencia que existe en nuestro país. Nuestros 
-            productos estan diseñados para tiendas,viviendas, empresas, etc., para reducir los robos.
+            El área donde se va a realizar nustro proyecto es el de Seguridad Electrónica, donde se realizan 
+            diversos procesos. Está área es fundamental ya que día a día presenciamos alto porcentaje de 
+            delincuencia que existe en nuestro país. Nuestros productos estan diseñados para tiendas,viviendas, 
+            empresas, etc., para reducir los robos.
   
         1.6.2 Recursos Humanos
         
