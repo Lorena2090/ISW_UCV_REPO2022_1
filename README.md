@@ -47,12 +47,10 @@ INDICE
         1.6.2 Recursos Humanos
         
 [![Recursos-Humanos.png](https://i.postimg.cc/15b0MCw3/Recursos-Humanos.png)](https://postimg.cc/56qF2msh)
-       
-        
-       
-       
-        
+     
         1.6.3 Software
+        
+[![software.png](https://i.postimg.cc/DwTrtCyf/software.png)](https://postimg.cc/Wh5qZwkx)
 
         1.6.4 Hardware
 
