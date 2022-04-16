@@ -64,6 +64,7 @@ INDICE
 2. Aspectos del Negocio
   
     2.1 Problematica Actual ó Analisis Situacional.
+        Se desarrollara luego de la entrevista 
   
 3. Metodologia
  
