@@ -52,6 +52,8 @@ INDICE
 
       
         3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
+ ![image](https://user-images.githubusercontent.com/82493473/163657237-7b7d1620-9676-42fa-8421-d2935f13b93b.png)
+
       
         3.1.3 Relación de actores y su descripción, cuadro indicando
          
