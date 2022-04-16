@@ -56,6 +56,8 @@ INDICE
 
       
         3.1.3 Relación de actores y su descripción, cuadro indicando
+  ![image](https://user-images.githubusercontent.com/82493473/163659874-dbc56ee8-2fdc-4aaf-99d9-44dce6b97cb0.png)
+
          
         3.1.4 Relación de casos de uso, cuadro indicando:
       
