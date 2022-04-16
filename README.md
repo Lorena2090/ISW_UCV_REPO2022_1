@@ -18,11 +18,21 @@ INDICE
          Resolver y satisfacer las necesidades de servicios de sistemas integrales, ingenieria, construccion de nuestros clientes.
          Operando en un entorno de crecimiento y motivacion a nuestros trabajadores, comprometido con el desarrollo social y ambiental.
          
-    1.3. OBJETIVOS
+    1.3. OBJETIVO
+         Obtener una mayor procutividad
+         Ofrecer un excelente servicio
+         Atraer y retener al mejor capital humano
+         Alcanzar a los clientes adecuados
 
     1.4. ANTECEDENTES
+         Somos un grupo de estudiantes con una gran vision por la tecnologia y los programas de software, con el fin de poder resolvder problemas
+         de las empresas en sus procesos de: ventas, produccion, logistica, entre otros.
+         comenzamos ah inicios del 2022 con muchas ideas nuevas y tecnologicas.
 
     1.5. 0RGANIGRAMA
+![g](https://user-images.githubusercontent.com/103697251/163660464-8647c3a4-ac1b-414b-bff6-6fdc43d89c50.png)
+
+
 
     1.6. AMBITO DEL PROYECTO
 
