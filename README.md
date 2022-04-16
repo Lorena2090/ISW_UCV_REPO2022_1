@@ -30,7 +30,10 @@ INDICE
          comenzamos ah inicios del 2022 con muchas ideas nuevas y tecnologicas.
 
     1.5. 0RGANIGRAMA
-![g](https://user-images.githubusercontent.com/103697251/163660464-8647c3a4-ac1b-414b-bff6-6fdc43d89c50.png)
+  																
+[![image](https://user-images.githubusercontent.com/103294222/163662442-9a1d9f2e-8771-495f-a847-dc3ca1213558.png)](https://postimg.cc/56qF2msh)
+
+
 
 
 
