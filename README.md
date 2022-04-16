@@ -54,6 +54,9 @@ INDICE
         1.6.4 Hardware
 
         1.6.5 Cronograma de Actividades
+        ![Sin título-2](https://user-images.githubusercontent.com/103294222/163662295-fed6260a-45cb-43d1-88eb-4a6691b462be.jpg)
+
+        
 
 2. Aspectos del Negocio
   
