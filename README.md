@@ -80,10 +80,23 @@ INDICE
 
          
         3.1.4 Relación de casos de uso, cuadro indicando:
-      
+  ![IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
+  
         3.1.5 Modelo de Casos de Uso de Requerimientos.
+  ![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/CUN.jpg)
       
         3.1.6 Plantilla de especificación de casos de uso.
+![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun1.png)
+
+![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun2.png)
+
+![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun3.png)
+
+![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun4.png)
+
+![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun5.png)
+
+![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun6.png)
       
         3.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
       
