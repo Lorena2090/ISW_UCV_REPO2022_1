@@ -29,8 +29,9 @@ INDICE
          de las empresas en sus procesos de: ventas, produccion, logistica, entre otros.
          comenzamos ah inicios del 2022 con muchas ideas nuevas y tecnologicas.
 
-    1.5. 0RGANIGRAMA
-![g](https://user-images.githubusercontent.com/103697251/163660464-8647c3a4-ac1b-414b-bff6-6fdc43d89c50.png)
+    1.5. 0RGANIGRAMA![Sin título-2](https://user-images.githubusercontent.com/103294222/163662379-8e17e90b-b4c4-4606-b10f-a54501a9fd0f.jpg)
+
+
 
 
 
