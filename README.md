@@ -1,7 +1,7 @@
 # ISW_UCV_REPO2022_1
 ### CONTENIDO DEL TRABAJO
 
-"Desarrollo del sistema de informacion para el desarrollo de atencion e inventario de la Empresa G & S AUTOMATIC SOLUTIONS S.A.C."
+“DESARROLLO DEL SISTEMA DE INFORMACION PARA EL DESARROLLO DE ATENCION E INVENTARIO DE LA EMPRESA G & S AUTOMATIC SOLUTIONS S.A.C.”
 
 INTRODUCCION
 
@@ -27,9 +27,9 @@ INDICE
     1.6. AMBITO DEL PROYECTO
 
         1.6.1 Area
-            El área donde se va a realizar nustro proyecto es el de Seguridad Electrónica, donde se realizan diversos procesos. Está área 
-            es fundamental ya que día a día presenciamos alto porcentaje de delincuencia que existe en nuestro país. Nuestros productos estan 
-            diseñados para tiendas,viviendas, empresas, etc., para reducir los robos.
+            El área donde se va a realizar nustro proyecto es el de Seguridad Electrónica, donde se realizan diversos procesos.
+            Está área es fundamental ya que día a día presenciamos alto porcentaje de delincuencia que existe en nuestro país. Nuestros 
+            productos estan diseñados para tiendas,viviendas, empresas, etc., para reducir los robos.
   
         1.6.2 Recursos Humanos
         
