@@ -53,9 +53,11 @@ INDICE
 [![software.png](https://i.postimg.cc/DwTrtCyf/software.png)](https://postimg.cc/Wh5qZwkx)
 
         1.6.4 Hardware
+        
+[![hardware.png](https://i.postimg.cc/mkxxRx56/hardware.png)](https://postimg.cc/xJPpyZYK)
 
         1.6.5 Cronograma de Actividades
-        ![Sin título-2](https://user-images.githubusercontent.com/103294222/163662295-fed6260a-45cb-43d1-88eb-4a6691b462be.jpg)
+![Sin título-2](https://user-images.githubusercontent.com/103294222/163662295-fed6260a-45cb-43d1-88eb-4a6691b462be.jpg)
 
         
 
