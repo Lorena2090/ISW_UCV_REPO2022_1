@@ -104,7 +104,7 @@ INDICE
 ![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun6.png)
 
         3.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
-![MATRIZ DE TRAZABILIDAD](https://user-images.githubusercontent.com/103294307/164118245-c73918ac-2aab-4a9d-b938-f97b9834bbe1.JPG)
+
 
 
         3.1.8 Modelo Conceptual de Clases.
