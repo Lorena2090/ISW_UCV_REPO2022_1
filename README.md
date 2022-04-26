@@ -108,5 +108,5 @@ INDICE
 
 
         3.1.8 Modelo Conceptual de Clases.
-![Diagrama de Clases jpeg](https://user-images.githubusercontent.com/103294307/165222084-c9c61960-27fc-4916-af42-25b20bba4cf6.jpg)
+![Diagrama de Clases jpeg](https://user-images.githubusercontent.com/103294307/165224150-d76d1e01-828d-4f12-acb8-4be3834ba3fb.jpg)
 
