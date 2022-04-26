@@ -41,10 +41,10 @@ INDICE
     1.6. AMBITO DEL PROYECTO
 
         1.6.1 Area
-            El área donde se va a realizar nustro proyecto es el de Seguridad Electrónica, donde se realizan 
+            El área donde se va a realizar nuestro proyecto es el de Seguridad Electrónica, donde se realizan 
             diversos procesos. Está área es fundamental ya que día a día presenciamos alto porcentaje de 
             delincuencia que existe en nuestro país. Nuestros productos estan diseñados para tiendas,viviendas, 
-            empresas, etc., para reducir los robos.
+            empresas, etc, con la finalidad para reducir los robos.
   
         1.6.2 Recursos Humanos
         
