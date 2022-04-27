@@ -20,19 +20,31 @@ INDICE
          comprometido con el desarrollo social y ambiental.
          
     1.3. OBJETIVO
-         Obtener una mayor procutividad
-         Ofrecer un excelente servicio
-         Atraer y retener al mejor capital humano
-         Alcanzar a los clientes adecuados
+         Automatizar procesos de la empresa garantizando que cada vez que un empleado requiera realizar una 
+         búsqueda de un producto para generar una venta este pueda saber el detalle de su disposición del 
+         producto. A su vez cuando existe un control riguroso, la empresa puede responder rápidamente a las
+         necesidades del cliente, al obtener los detalles del producto en stock poder realizar un proceso 
+         de venta más eficaz y veloz.
 
     1.4. ANTECEDENTES
-         Somos un grupo de estudiantes con una gran vision por la tecnologia y los programas de software, con 
-         el fin de poder resolver problemas de las empresas en sus procesos de: ventas, produccion, logistica, 
-         entre otros, comenzamos ah inicios del 2022 con muchas ideas nuevas y tecnologicas.
+        Las empresas que fabrican artículos electrónicos tuvieron una evolución a partir de década de 1990, 
+        la cual estuvo inmersa en una serie de cambios paradigmáticos relacionados con la acelerada evolución
+        de la tecnología, que llevó a la aparición del término TIC´S y a la apertura del internet como una 
+        plataforma de red libre para el usuario en el mundo entero. A raíz de esta revolución tecnológica 
+        aparecieron en el mercado las carreras de diseño gráfico, los programas informáticos, para la elaboración
+        de artes gráficas y publicitarias que permitieron el crecimiento del sector empresarial dedicado a la 
+        fabricación de productos publicitarios, que hasta antes de la década de 1990 había trabajado de forma
+        rústica y con herramientas rudimentales. 
+        En la actualidad las empresas fabricantes de productos utilizan  los componentes de la TIC’s, en especial
+        los programas informáticos especiales en diseño gráfico y la plataforma del internet, herramientas con las 
+        cuales incrementaron su productividad y son más competitivas en un mercado creciente, que cada vez utiliza 
+        en mayor grado de herramienta poderosa para mantenerse y escalar posiciones en el sector en el cual compiten.
+         Autor: Jorge David Molina Año 2015
+
 
     1.5. 0RGANIGRAMA
-  																
-[![image](https://user-images.githubusercontent.com/103294222/163662442-9a1d9f2e-8771-495f-a847-dc3ca1213558.png)](https://postimg.cc/56qF2msh)
+![ORGANIGRAMA](https://user-images.githubusercontent.com/82493473/165431016-9638bb4e-99db-4665-ace4-acae18a80685.JPG)
+
 
 
 
@@ -73,11 +85,13 @@ INDICE
     3.1. Modelo de Requerimientos.
    
         3.1.1 Cuadro de Requerimientos Funcionales, indicando: identificativo, nombre y descripción.
-![image](https://user-images.githubusercontent.com/82493473/163657269-50742ce9-e1dc-4dfe-8a5c-fff0bb846fb8.png)
+![Req_Funcionales](https://user-images.githubusercontent.com/82493473/165431382-d35c71f3-7869-47f1-8ae9-a330838db1c1.JPG)
+
 
       
         3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
- ![image](https://user-images.githubusercontent.com/82493473/163657237-7b7d1620-9676-42fa-8421-d2935f13b93b.png)
+ ![Req_No_Funcionales](https://user-images.githubusercontent.com/82493473/165431422-d45ebffb-e173-4f83-9577-9c283e63e93b.JPG)
+
 
       
         3.1.3 Relación de actores y su descripción, cuadro indicando
@@ -105,8 +119,9 @@ INDICE
 
         3.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
 
+![Matriz_Trazabilidad](https://user-images.githubusercontent.com/82493473/165433120-2f1f073b-f3fa-4fe7-8ccf-00da5ed56d05.JPG)
 
 
         3.1.8 Modelo Conceptual de Clases.
-![Diagrama de Clases jpeg](https://user-images.githubusercontent.com/103294307/165224150-d76d1e01-828d-4f12-acb8-4be3834ba3fb.jpg)
+![Diagrama de Clases](https://user-images.githubusercontent.com/82493473/165433207-e92a2b8e-e172-47f0-8bc9-47497d6a2e56.png)
 
