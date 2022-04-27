@@ -3,14 +3,20 @@
 
 "IMPLEMENTACION DE UN SISTEMA DE GESTION Y CONTROL PARA LA EMPRESA G & S AUTOMATIC SOLUTIONS S.A.C.”
 
-                     INTEGRANTES
-                     
-        Bravo Ludeña Gianfranco Eduardo. (Orcid- 0000-0002-7632-6651)
-        Condor Condori Willian Anthony. (Orcid- 0000-0001-5538-0627)
-        Facundo Apolinario, Fernando Alexander. (Orcid- 0000-0003-4342-0753)
-        Galdós Flores Giuliano. (Orcid- 0000-0002-9085-3116)
-        Tuesta Shardin Lorena Katherin. (Orcid- 0000-0002-4824-2362)
-        Vásquez Alvarado Xavier Jesus. (Orcid- 0000-0001-7499-7016)
+
+![logo](https://user-images.githubusercontent.com/82493473/165433690-0bf2cf69-2eef-46c4-8b0b-8ef3586b571f.jpg)
+
+
+
+
+                                 INTEGRANTES
+                       
+           Bravo Ludeña Gianfranco Eduardo. (Orcid- 0000-0002-7632-6651)
+           Condor Condori Willian Anthony. (Orcid- 0000-0001-5538-0627)
+           Facundo Apolinario, Fernando Alexander. (Orcid- 0000-0003-4342-0753)
+           Galdós Flores Giuliano. (Orcid- 0000-0002-9085-3116)
+           Tuesta Shardin Lorena Katherin. (Orcid- 0000-0002-4824-2362)
+           Vásquez Alvarado Xavier Jesus. (Orcid- 0000-0001-7499-7016)
 
                                 CURSO
                          INGENIERÍA DE SOFTWARE
