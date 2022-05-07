@@ -1,17 +1,18 @@
 # ISW_UCV_REPO2022_1
 ### CONTENIDO DEL TRABAJO
 
-"IMPLEMENTACION DE UN SISTEMA DE GESTION Y CONTROL PARA LA EMPRESA G & S AUTOMATIC SOLUTIONS S.A.C.”
+![ucv___](https://user-images.githubusercontent.com/82493473/167241202-8bfc3708-c35e-4ab4-b7a4-523ba714ba19.jpg)
 
+  
+"IMPLEMENTACION DE UN SISTEMA DE GESTION Y CONTROL PARA LA EMPRESA G & S AUTOMATIC SOLUTIONS S.A.C.” 
 
-![logo](https://user-images.githubusercontent.com/82493473/165433690-0bf2cf69-2eef-46c4-8b0b-8ef3586b571f.jpg)
 
 
 
 
                                  INTEGRANTES
                        
-           Bravo Ludeña Gianfranco Eduardo. (Orcid- 0000-0002-7632-6651)
+           Bravo Ludeña Gianfranco Eduardo. (Orcid- 0000-0002-7632-6651)  
            Condor Condori Willian Anthony. (Orcid- 0000-0001-5538-0627)
            Facundo Apolinario, Fernando Alexander. (Orcid- 0000-0003-4342-0753)
            Galdós Flores Giuliano. (Orcid- 0000-0002-9085-3116)
