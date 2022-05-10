@@ -157,16 +157,6 @@ INDICE
 ![Diagrama de Clases](https://user-images.githubusercontent.com/82493473/165433207-e92a2b8e-e172-47f0-8bc9-47497d6a2e56.png)
 
 
+![PORCENTAJE DE PARTICIPACION jpgxlsx](https://user-images.githubusercontent.com/82493473/167539824-08d2c785-c2b4-4b34-982d-818216ad0c28.JPG)
 
-INTEGRANTES	PORCENTAJE DE PARTICIPACION	
-	I AVANCE	II AVANCE
-Bravo Ludeña Gianfranco Eduardo. (Orcid- 0000-0002-7632-6651)	100%	100%
-Condor Condori Willian Anthony. (Orcid- 0000-0001-5538-0627)	40%	40%
-Facundo Apolinario, Fernando Alexander. (Orcid- 0000-0003-4342-0753)	100%	55%
-Galdós Flores Giuliano. (Orcid- 0000-0002-9085-3116)	100%	55%
-Tuesta Shardin Lorena Katherin. (Orcid- 0000-0002-4824-2362)	100%	100%
-Vásquez Alvarado Xavier Jesus. (Orcid- 0000-0001-7499-7016)	100%	55%
-"Observacion de la delegada: En el segundo avance el 80% de los integrantes mostraron 
-desisnteres y olvido en el tema de elaboracion del informe, dado que no se comunicaban por el grupo de WatssApp "		
-![image](https://user-images.githubusercontent.com/82493473/167516175-12d1330c-61a2-4366-9a99-f4ba7eeea7c6.png)
 
