@@ -90,7 +90,7 @@ INDICE
   
         1.6.2 Recursos Humanos
         
-[![recursos-humanos.png](https://i.postimg.cc/vTyG0PX4/recursos-humanos.png)](https://postimg.cc/62Hs3fkK)
+[![recursos-humanos.png](https://i.postimg.cc/W3Rzdd5j/recursos-humanos.png)](https://postimg.cc/mcwBqgx6)
      
         1.6.3 Software
         
