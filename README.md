@@ -94,7 +94,7 @@ INDICE
      
         1.6.3 Software
         
-[![software.png](https://i.postimg.cc/J4Ry3BMz/software.png)](https://postimg.cc/vDSHbT4J)
+[![software.png](https://i.postimg.cc/q7msCX9n/software.png)](https://postimg.cc/5HCYhv9N)
 
         1.6.4 Hardware
         
