@@ -98,7 +98,7 @@ INDICE
 
         1.6.4 Hardware
         
-[![hardware.png](https://i.postimg.cc/mkxxRx56/hardware.png)](https://postimg.cc/xJPpyZYK)
+[![hardware.png](https://i.postimg.cc/h47pd6M0/hardware.png)](https://postimg.cc/qg4sfmPt)
 
         1.6.5 Cronograma de Actividades
 ![Cronograma_de_Actividades](https://user-images.githubusercontent.com/82493473/165433410-88c4c162-c3f5-4f2f-b80a-e57f126fb870.JPG)
