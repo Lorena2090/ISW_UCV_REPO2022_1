@@ -57,19 +57,19 @@
          de venta más eficaz y veloz.
 
      2.4. ANTECEDENTES
-        Las empresas que fabrican artículos electrónicos tuvieron una evolución a partir de década de 1990, 
-        la cual estuvo inmersa en una serie de cambios paradigmáticos relacionados con la acelerada evolución
-        de la tecnología, que llevó a la aparición del término TIC´S y a la apertura del internet como una 
-        plataforma de red libre para el usuario en el mundo entero. A raíz de esta revolución tecnológica 
-        aparecieron en el mercado las carreras de diseño gráfico, los programas informáticos, para la elaboración
-        de artes gráficas y publicitarias que permitieron el crecimiento del sector empresarial dedicado a la 
-        fabricación de productos publicitarios, que hasta antes de la década de 1990 había trabajado de forma
-        rústica y con herramientas rudimentales. 
-        En la actualidad las empresas fabricantes de productos utilizan  los componentes de la TIC’s, en especial
-        los programas informáticos especiales en diseño gráfico y la plataforma del internet, herramientas con las 
-        cuales incrementaron su productividad y son más competitivas en un mercado creciente, que cada vez utiliza 
-        en mayor grado de herramienta poderosa para mantenerse y escalar posiciones en el sector en el cual compiten.
-         Autor: Jorge David Molina Año 2015
+          Las empresas que fabrican artículos electrónicos tuvieron una evolución a partir de década de 1990, 
+          la cual estuvo inmersa en una serie de cambios paradigmáticos relacionados con la acelerada evolución
+          de la tecnología, que llevó a la aparición del término TIC´S y a la apertura del internet como una 
+          plataforma de red libre para el usuario en el mundo entero. A raíz de esta revolución tecnológica 
+          aparecieron en el mercado las carreras de diseño gráfico, los programas informáticos, para la elaboración
+          de artes gráficas y publicitarias que permitieron el crecimiento del sector empresarial dedicado a la 
+          fabricación de productos publicitarios, que hasta antes de la década de 1990 había trabajado de forma
+          rústica y con herramientas rudimentales. 
+          En la actualidad las empresas fabricantes de productos utilizan  los componentes de la TIC’s, en especial
+          los programas informáticos especiales en diseño gráfico y la plataforma del internet, herramientas con las 
+          cuales incrementaron su productividad y son más competitivas en un mercado creciente, que cada vez utiliza 
+          en mayor grado de herramienta poderosa para mantenerse y escalar posiciones en el sector en el cual compiten.
+           Autor: Jorge David Molina Año 2015
 
 
      2.5. 0RGANIGRAMA
@@ -83,10 +83,10 @@
      2.6. AMBITO DEL PROYECTO
 
          2.6.1 Area
-            El área donde se va a realizar nuestro proyecto es el de Seguridad Electrónica, donde se realizan 
-            diversos procesos. Está área es fundamental ya que día a día presenciamos alto porcentaje de 
-            delincuencia que existe en nuestro país. Nuestros productos estan diseñados para tiendas,viviendas, 
-            empresas, etc, con la finalidad para reducir los robos.
+               El área donde se va a realizar nuestro proyecto es el de Seguridad Electrónica, donde se realizan 
+               diversos procesos. Está área es fundamental ya que día a día presenciamos alto porcentaje de 
+               delincuencia que existe en nuestro país. Nuestros productos estan diseñados para tiendas,viviendas, 
+               empresas, etc, con la finalidad para reducir los robos.
   
         2.6.2 Recursos Humanos
         
