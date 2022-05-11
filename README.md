@@ -10,26 +10,26 @@
 
 
 
-                                 INTEGRANTES
+                                                          INTEGRANTES
                        
-           Bravo Ludeña Gianfranco Eduardo. (Orcid- 0000-0002-7632-6651)  
-           Condor Condori Willian Anthony. (Orcid- 0000-0001-5538-0627)
-           Facundo Apolinario, Fernando Alexander. (Orcid- 0000-0003-4342-0753)
-           Galdós Flores Giuliano. (Orcid- 0000-0002-9085-3116)
-           Tuesta Shardin Lorena Katherin. (Orcid- 0000-0002-4824-2362)
-           Vásquez Alvarado Xavier Jesus. (Orcid- 0000-0001-7499-7016)
+                               Bravo Ludeña Gianfranco Eduardo. (Orcid- 0000-0002-7632-6651)  
+                               Condor Condori Willian Anthony. (Orcid- 0000-0001-5538-0627)
+                               Facundo Apolinario, Fernando Alexander. (Orcid- 0000-0003-4342-0753)
+                               Galdós Flores Giuliano. (Orcid- 0000-0002-9085-3116)
+                               Tuesta Shardin Lorena Katherin. (Orcid- 0000-0002-4824-2362)
+                               Vásquez Alvarado Xavier Jesus. (Orcid- 0000-0001-7499-7016)
 
-                                CURSO
-                         INGENIERÍA DE SOFTWARE
+                                                          CURSO
+                                                   INGENIERÍA DE SOFTWARE
 
-                                DOCENTE 
-                    Ing. Richard Leonardo Berrocal Navarro
+                                                          DOCENTE 
+                                              Ing. Richard Leonardo Berrocal Navarro
 
-                                   CICLO
-                                    V
+                                                             CICLO
+                                                              V
 
-                                SEMESTRE
-                                2022 – I
+                                                          SEMESTRE
+                                                          2022 – I
 
 
 
