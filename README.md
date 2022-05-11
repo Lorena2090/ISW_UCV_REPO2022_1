@@ -116,17 +116,18 @@ INDICE
     3.1. Modelo de Requerimientos.
    
         3.1.1 Cuadro de Requerimientos Funcionales, indicando: identificativo, nombre y descripción.
-![Req_Funcionales](https://user-images.githubusercontent.com/82493473/165431382-d35c71f3-7869-47f1-8ae9-a330838db1c1.JPG)
-
+![Requerimientos_Funcionales](https://user-images.githubusercontent.com/82493473/167751709-5828017f-7405-4429-a636-5b32783939df.JPG)
 
       
         3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
- ![Req_No_Funcionales](https://user-images.githubusercontent.com/82493473/165431422-d45ebffb-e173-4f83-9577-9c283e63e93b.JPG)
-
+ ![Requerimiento_no_funcionales](https://user-images.githubusercontent.com/82493473/167751730-4695b2a0-5ce9-41af-89a9-3318132f0c35.JPG)
 
       
         3.1.3 Relación de actores y su descripción, cuadro indicando
-  ![image](https://user-images.githubusercontent.com/82493473/163659874-dbc56ee8-2fdc-4aaf-99d9-44dce6b97cb0.png)
+![image](https://user-images.githubusercontent.com/82493473/167751274-d2b1849f-68ef-4d14-b52d-7ad11805d85f.png)
+
+![image](https://user-images.githubusercontent.com/82493473/167751664-242b204f-a93d-4fcf-9261-0954dda4c539.png)
+
 
          
         3.1.4 Relación de casos de uso, cuadro indicando:
