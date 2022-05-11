@@ -152,7 +152,7 @@ INDICE
 
         3.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
 
-![Matriz_Trazabilidad](https://user-images.githubusercontent.com/82493473/165433120-2f1f073b-f3fa-4fe7-8ccf-00da5ed56d05.JPG)
+![image](https://user-images.githubusercontent.com/82493473/167753948-1177d8a0-590c-49e1-a437-cd30f1ef1cdf.png)
 
 
         3.1.8 Modelo Conceptual de Clases.
