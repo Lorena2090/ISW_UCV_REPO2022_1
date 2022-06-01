@@ -121,10 +121,10 @@
 ![image](https://user-images.githubusercontent.com/82493473/167751664-242b204f-a93d-4fcf-9261-0954dda4c539.png)
          
         4.1.4 Relación de casos de uso, cuadro indicando:
- [IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
+ ![IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
   
         4.1.5 Modelo de Casos de Uso de Requerimientos.
- [image](https://user-images.githubusercontent.com/82493473/171303539-da857245-693e-4cb2-a919-2c6ce157e421.png)
+ ![image](https://user-images.githubusercontent.com/82493473/171303539-da857245-693e-4cb2-a919-2c6ce157e421.png)
       
         4.1.6 Plantilla de especificación de casos de uso.
 ![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun1.png)
