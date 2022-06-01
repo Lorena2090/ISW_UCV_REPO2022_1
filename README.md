@@ -103,9 +103,6 @@
         2.6.5 Cronograma de Actividades
 ![Cronograma_de_Actividades](https://user-images.githubusercontent.com/82493473/165433410-88c4c162-c3f5-4f2f-b80a-e57f126fb870.JPG)
 
-
-        
-
 3. Aspectos del Negocio
   
     3.1 Problematica Actual ó Analisis Situacional.
@@ -121,15 +118,11 @@
       
         4.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
 ![RNF](https://user-images.githubusercontent.com/103294307/167752693-cccd5a68-112b-4a87-8f58-60125f42a3a4.JPG)
-
-
-      
+  
         4.1.3 Relación de actores y su descripción, cuadro indicando
 ![image](https://user-images.githubusercontent.com/82493473/167751274-d2b1849f-68ef-4d14-b52d-7ad11805d85f.png)
 
 ![image](https://user-images.githubusercontent.com/82493473/167751664-242b204f-a93d-4fcf-9261-0954dda4c539.png)
-
-
          
         4.1.4 Relación de casos de uso, cuadro indicando:
   ![IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
@@ -161,11 +154,29 @@
    4.2.	ANALISIS ORIENTADO A OBJETOS
         3.2.1.	MODELO DE ANALISIS
                 3.2.1.1.	DIAGRAMA DE ANALISIS Y CLASES
+![image](https://user-images.githubusercontent.com/82493473/171301819-50ceaa1b-9fa8-4a3d-9beb-a8ae5f22da7c.png)
+
                 3.2.1.2.	DIAGRAMAS DE SECUENCIAS Y COLABORACION DE ANALISIS
+GENERAR VENTA
+![image](https://user-images.githubusercontent.com/82493473/171301890-e1d82607-84f8-4bf8-b22e-aacaae02883b.png)
+REGISTRAR PEDIDO
+![image](https://user-images.githubusercontent.com/82493473/171302775-a4d05965-737c-4cca-8c1c-1176f2bf6e0a.png)
+VERIFICAR PEDIDO
+![image](https://user-images.githubusercontent.com/82493473/171302839-dca28f29-0317-4ec2-bd81-ec0554bd3700.png)
+ACTUALIZAR STOCK
+![image](https://user-images.githubusercontent.com/82493473/171302883-7040f388-b498-4723-8981-d373d5759e63.png)
+REGISTRAR CLIENTE
+![image](https://user-images.githubusercontent.com/82493473/171302916-3008a68d-cdb6-4cdf-983b-07b9611f2645.png)
+![REQUERIMIENTOS](https://user-images.githubusercontent.com/82493473/171303112-4954e33a-99b9-4d9f-a78c-49e389d96f19.JPG)
+
+                
         3.2.2.	LISTA DE CLASES DE INTERFAZ
         3.2.3.	LISTA DE CLASES DE CONTROL
         3.2.4.	LISTA DE CLASES DE ENTIDADES
+![isww](https://user-images.githubusercontent.com/82493473/171302284-c412d930-b23f-4090-9630-63c45d3a251f.JPG)        
         3.2.5.	MODELO LOGICO DE CLASES
+
+
 
    4.3.	DISEÑO ORIENTADO A OBJETOS 
         4.3.1.	MODELO FISICO
