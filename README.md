@@ -124,20 +124,16 @@
  ![IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
   
         4.1.5 Modelo de Casos de Uso de Requerimientos.
- ![image](https://user-images.githubusercontent.com/82493473/171303539-da857245-693e-4cb2-a919-2c6ce157e421.png)
+![image](https://user-images.githubusercontent.com/82493473/171305536-20c22fc1-0b8f-4fe8-9a63-f5243886d77f.png)
       
         4.1.6 Plantilla de especificación de casos de uso.
-![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun1.png)
-
-![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun2.png)
-
-![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun3.png)
-
-![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun4.png)
-
-![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun5.png)
-
-![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun6.png)
+![1](https://user-images.githubusercontent.com/82493473/171305420-be8253bb-6178-4183-b3a2-ee510f339a31.JPG)
+![2](https://user-images.githubusercontent.com/82493473/171305428-48544540-cfbf-486a-ba92-faf25210d1c6.JPG)
+![3](https://user-images.githubusercontent.com/82493473/171305434-e86179b7-6763-4f99-8e70-73325529b52a.JPG)
+![4](https://user-images.githubusercontent.com/82493473/171305440-31894850-27cb-4774-af0f-739eed37c0c7.JPG)
+![5](https://user-images.githubusercontent.com/82493473/171305442-39295ce6-8a9c-4156-bc05-58d0a32b51d2.JPG)
+![6](https://user-images.githubusercontent.com/82493473/171305447-ce38f862-6b0f-4d62-961c-41baf0e2afcd.JPG)
+![7](https://user-images.githubusercontent.com/82493473/171305453-571175e1-204c-4561-b890-288b35037845.JPG)
 
         4.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
 
