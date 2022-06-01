@@ -141,6 +141,7 @@
 
 
         4.1.8 Modelo Conceptual de Clases.
+        
 ![Diagrama de Clases](https://user-images.githubusercontent.com/82493473/165433207-e92a2b8e-e172-47f0-8bc9-47497d6a2e56.png)
 
    4.2.	ANALISIS ORIENTADO A OBJETOS
