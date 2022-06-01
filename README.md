@@ -18,7 +18,7 @@
                                                    INGENIERÍA DE SOFTWARE
 
                                                           DOCENTE 
-                                              Ing. Richard Leonardo Berrocal Navarro
+                                 Ing. Richard Leonardo Berrocal Navarro(ORCID: 0000-0001-8718-3150)
 
                                                              CICLO
                                                               V
