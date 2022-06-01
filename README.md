@@ -1,7 +1,7 @@
 # ISW_UCV_REPO2022_1
 ### CONTENIDO DEL TRABAJO
 
-            ![unnamed](https://user-images.githubusercontent.com/82493473/171305658-2efcb268-b121-4192-b8ca-9b7e29dae61d.png)
+![unnamed](https://user-images.githubusercontent.com/82493473/171305658-2efcb268-b121-4192-b8ca-9b7e29dae61d.png)
 
                     "IMPLEMENTACION DE UN SISTEMA DE GESTION Y CONTROL PARA LA EMPRESA G & S AUTOMATIC SOLUTIONS S.A.C.” 
 
