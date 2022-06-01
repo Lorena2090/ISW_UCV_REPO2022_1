@@ -28,30 +28,26 @@
 
 
 
-1. INTRODUCCION
+1. Aspectos de la Organizacion
 
-
-
-2. Aspectos de la Organizacion
-
-    2.1 VISION
+    1.1 VISION
           Consolidarse como emppres lider en Perú y brindar soluciones integrales, ingenieria y construcción.
           Siendo reconocido por la calidad de sus servicios y productos, buenas practicas en ingenieria, 
           innovacion tecnologica, excelencia profesional y satisfaccion de nuestros clientes
 
-    2.2 MISION
+    1.2 MISION
           Resolver y satisfacer las necesidades de servicios de sistemas integrales, ingenieria, construccion 
           de nuestros clientes. Operando en un entorno de crecimiento y motivacion a nuestros trabajadores, 
           comprometido con el desarrollo social y ambiental.
          
-    2.3. OBJETIVO
+    1.3. OBJETIVO
            Automatizar procesos de la empresa garantizando que cada vez que un empleado requiera realizar una 
            búsqueda de un producto para generar una venta este pueda saber el detalle de su disposición del 
            producto. A su vez cuando existe un control riguroso, la empresa puede responder rápidamente a las
            necesidades del cliente, al obtener los detalles del producto en stock poder realizar un proceso 
            de venta más eficaz y veloz.
 
-     2.4. ANTECEDENTES
+     1.4. ANTECEDENTES
           Las empresas que fabrican artículos electrónicos tuvieron una evolución a partir de década de 1990, 
           la cual estuvo inmersa en una serie de cambios paradigmáticos relacionados con la acelerada evolución
           de la tecnología, que llevó a la aparición del término TIC´S y a la apertura del internet como una 
@@ -67,7 +63,7 @@
            Autor: Jorge David Molina Año 2015
 
 
-     2.5. 0RGANIGRAMA
+     1.5. 0RGANIGRAMA
      
 ![ORGANIGRAMA](https://user-images.githubusercontent.com/82493473/165431016-9638bb4e-99db-4665-ace4-acae18a80685.JPG)
 
@@ -76,60 +72,61 @@
 
 
 
-     2.6. AMBITO DEL PROYECTO
+    1.6. AMBITO DEL PROYECTO
 
-         2.6.1 Area
+         1.6.1 Area
                El área donde se va a realizar nuestro proyecto es el de Seguridad Electrónica, donde se realizan 
                diversos procesos. Está área es fundamental ya que día a día presenciamos alto porcentaje de 
                delincuencia que existe en nuestro país. Nuestros productos estan diseñados para tiendas,viviendas, 
                empresas, etc, con la finalidad para reducir los robos.
   
-        2.6.2 Recursos Humanos
+        1.6.2 Recursos Humanos
         
 [![recursos-humanos.png](https://i.postimg.cc/W3Rzdd5j/recursos-humanos.png)](https://postimg.cc/mcwBqgx6)
      
-        2.6.3 Software
+        1.6.3 Software
         
 [![software.png](https://i.postimg.cc/q7msCX9n/software.png)](https://postimg.cc/5HCYhv9N)
 
-        2.6.4 Hardware
+        1.6.4 Hardware
         
 [![hardware.png](https://i.postimg.cc/h47pd6M0/hardware.png)](https://postimg.cc/qg4sfmPt)
 
-        2.6.5 Cronograma de Actividades
+        1.6.5 Cronograma de Actividades
 ![Cronograma_de_Actividades](https://user-images.githubusercontent.com/82493473/165433410-88c4c162-c3f5-4f2f-b80a-e57f126fb870.JPG)
 
-3. Aspectos del Negocio
+2. Aspectos del Negocio
   
     3.1 Problematica Actual ó Analisis Situacional.
         Se desarrollara luego de la entrevista 
   
-4. Metodologia
+3. Metodologia
  
-    4.1. Modelo de Requerimientos.
+    3.1. Modelo de Requerimientos.
    
-        4.1.1 Cuadro de Requerimientos Funcionales, indicando: identificativo, nombre y descripción.
+        3.1.1 Cuadro de Requerimientos Funcionales, indicando: identificativo, nombre y descripción.
 ![Requerimientos_Funcionales](https://user-images.githubusercontent.com/82493473/167751709-5828017f-7405-4429-a636-5b32783939df.JPG)
 
       
-        4.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
+        3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
+        
 ![RNF](https://user-images.githubusercontent.com/103294307/167752693-cccd5a68-112b-4a87-8f58-60125f42a3a4.JPG)
   
-        4.1.3 Relación de actores y su descripción, cuadro indicando
+        3.1.3 Relación de actores y su descripción, cuadro indicando
         
 ![image](https://user-images.githubusercontent.com/82493473/167751274-d2b1849f-68ef-4d14-b52d-7ad11805d85f.png)
 
 ![image](https://user-images.githubusercontent.com/82493473/167751664-242b204f-a93d-4fcf-9261-0954dda4c539.png)
          
-        4.1.4 Relación de casos de uso, cuadro indicando:
+        3.1.4 Relación de casos de uso, cuadro indicando:
         
  ![IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
   
-        4.1.5 Modelo de Casos de Uso de Requerimientos.
+        3.1.5 Modelo de Casos de Uso de Requerimientos.
         
 ![image](https://user-images.githubusercontent.com/82493473/171305536-20c22fc1-0b8f-4fe8-9a63-f5243886d77f.png)
       
-        4.1.6 Plantilla de especificación de casos de uso.
+        3.1.6 Plantilla de especificación de casos de uso.
         
 ![1](https://user-images.githubusercontent.com/82493473/171305420-be8253bb-6178-4183-b3a2-ee510f339a31.JPG)
 ![2](https://user-images.githubusercontent.com/82493473/171305428-48544540-cfbf-486a-ba92-faf25210d1c6.JPG)
@@ -139,24 +136,24 @@
 ![6](https://user-images.githubusercontent.com/82493473/171305447-ce38f862-6b0f-4d62-961c-41baf0e2afcd.JPG)
 ![7](https://user-images.githubusercontent.com/82493473/171305453-571175e1-204c-4561-b890-288b35037845.JPG)
 
-        4.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
+        3.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
 
 ![image](https://user-images.githubusercontent.com/82493473/167753948-1177d8a0-590c-49e1-a437-cd30f1ef1cdf.png)
 
 
-        4.1.8 Modelo Conceptual de Clases.
+        3.1.8 Modelo Conceptual de Clases.
         
 ![Diagrama de Clases](https://user-images.githubusercontent.com/82493473/165433207-e92a2b8e-e172-47f0-8bc9-47497d6a2e56.png)
 
    4.2.	ANALISIS ORIENTADO A OBJETOS
    
-        3.2.1.	MODELO DE ANALISIS
+        4.2.1.	MODELO DE ANALISIS
         
-                3.2.1.1.	DIAGRAMA DE ANALISIS Y CLASES
+                4.2.1.1.	DIAGRAMA DE ANALISIS Y CLASES
                 
 ![image](https://user-images.githubusercontent.com/82493473/171301819-50ceaa1b-9fa8-4a3d-9beb-a8ae5f22da7c.png)
 
-                3.2.1.2.	DIAGRAMAS DE SECUENCIAS Y COLABORACION DE ANALISIS
+                4.2.1.2.	DIAGRAMAS DE SECUENCIAS Y COLABORACION DE ANALISIS
 GENERAR VENTA
 
 ![image](https://user-images.githubusercontent.com/82493473/171301890-e1d82607-84f8-4bf8-b22e-aacaae02883b.png)
