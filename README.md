@@ -3,12 +3,7 @@
 
 ![ucv___](https://user-images.githubusercontent.com/82493473/167241202-8bfc3708-c35e-4ab4-b7a4-523ba714ba19.jpg)
 
-  
 "IMPLEMENTACION DE UN SISTEMA DE GESTION Y CONTROL PARA LA EMPRESA G & S AUTOMATIC SOLUTIONS S.A.C.” 
-
-
-
-
 
                                                           INTEGRANTES
                        
@@ -40,21 +35,21 @@
 2. Aspectos de la Organizacion
 
     2.1 VISION
-        Consolidarse como emppres lider en Perú y brindar soluciones integrales, ingenieria y construcción.
-        Siendo reconocido por la calidad de sus servicios y productos, buenas practicas en ingenieria, 
-        innovacion tecnologica, excelencia profesional y satisfaccion de nuestros clientes
+          Consolidarse como emppres lider en Perú y brindar soluciones integrales, ingenieria y construcción.
+          Siendo reconocido por la calidad de sus servicios y productos, buenas practicas en ingenieria, 
+          innovacion tecnologica, excelencia profesional y satisfaccion de nuestros clientes
 
     2.2 MISION
-         Resolver y satisfacer las necesidades de servicios de sistemas integrales, ingenieria, construccion 
-         de nuestros clientes. Operando en un entorno de crecimiento y motivacion a nuestros trabajadores, 
-         comprometido con el desarrollo social y ambiental.
+          Resolver y satisfacer las necesidades de servicios de sistemas integrales, ingenieria, construccion 
+          de nuestros clientes. Operando en un entorno de crecimiento y motivacion a nuestros trabajadores, 
+          comprometido con el desarrollo social y ambiental.
          
     2.3. OBJETIVO
-         Automatizar procesos de la empresa garantizando que cada vez que un empleado requiera realizar una 
-         búsqueda de un producto para generar una venta este pueda saber el detalle de su disposición del 
-         producto. A su vez cuando existe un control riguroso, la empresa puede responder rápidamente a las
-         necesidades del cliente, al obtener los detalles del producto en stock poder realizar un proceso 
-         de venta más eficaz y veloz.
+           Automatizar procesos de la empresa garantizando que cada vez que un empleado requiera realizar una 
+           búsqueda de un producto para generar una venta este pueda saber el detalle de su disposición del 
+           producto. A su vez cuando existe un control riguroso, la empresa puede responder rápidamente a las
+           necesidades del cliente, al obtener los detalles del producto en stock poder realizar un proceso 
+           de venta más eficaz y veloz.
 
      2.4. ANTECEDENTES
           Las empresas que fabrican artículos electrónicos tuvieron una evolución a partir de década de 1990, 
