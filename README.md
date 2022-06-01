@@ -116,17 +116,21 @@
 ![RNF](https://user-images.githubusercontent.com/103294307/167752693-cccd5a68-112b-4a87-8f58-60125f42a3a4.JPG)
   
         4.1.3 Relación de actores y su descripción, cuadro indicando
+        
 ![image](https://user-images.githubusercontent.com/82493473/167751274-d2b1849f-68ef-4d14-b52d-7ad11805d85f.png)
 
 ![image](https://user-images.githubusercontent.com/82493473/167751664-242b204f-a93d-4fcf-9261-0954dda4c539.png)
          
         4.1.4 Relación de casos de uso, cuadro indicando:
+        
  ![IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
   
         4.1.5 Modelo de Casos de Uso de Requerimientos.
+        
 ![image](https://user-images.githubusercontent.com/82493473/171305536-20c22fc1-0b8f-4fe8-9a63-f5243886d77f.png)
       
         4.1.6 Plantilla de especificación de casos de uso.
+        
 ![1](https://user-images.githubusercontent.com/82493473/171305420-be8253bb-6178-4183-b3a2-ee510f339a31.JPG)
 ![2](https://user-images.githubusercontent.com/82493473/171305428-48544540-cfbf-486a-ba92-faf25210d1c6.JPG)
 ![3](https://user-images.githubusercontent.com/82493473/171305434-e86179b7-6763-4f99-8e70-73325529b52a.JPG)
@@ -145,8 +149,11 @@
 ![Diagrama de Clases](https://user-images.githubusercontent.com/82493473/165433207-e92a2b8e-e172-47f0-8bc9-47497d6a2e56.png)
 
    4.2.	ANALISIS ORIENTADO A OBJETOS
+   
         3.2.1.	MODELO DE ANALISIS
+        
                 3.2.1.1.	DIAGRAMA DE ANALISIS Y CLASES
+                
 ![image](https://user-images.githubusercontent.com/82493473/171301819-50ceaa1b-9fa8-4a3d-9beb-a8ae5f22da7c.png)
 
                 3.2.1.2.	DIAGRAMAS DE SECUENCIAS Y COLABORACION DE ANALISIS
