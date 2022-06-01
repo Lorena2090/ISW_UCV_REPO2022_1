@@ -1,7 +1,7 @@
 # ISW_UCV_REPO2022_1
 ### CONTENIDO DEL TRABAJO
 
-![ucv___](https://user-images.githubusercontent.com/82493473/167241202-8bfc3708-c35e-4ab4-b7a4-523ba714ba19.jpg)
+##![ucv___](https://user-images.githubusercontent.com/82493473/167241202-8bfc3708-c35e-4ab4-b7a4-523ba714ba19.jpg)
 
 "IMPLEMENTACION DE UN SISTEMA DE GESTION Y CONTROL PARA LA EMPRESA G & S AUTOMATIC SOLUTIONS S.A.C.” 
 
@@ -120,10 +120,10 @@
 ![image](https://user-images.githubusercontent.com/82493473/167751664-242b204f-a93d-4fcf-9261-0954dda4c539.png)
          
         4.1.4 Relación de casos de uso, cuadro indicando:
-  ![IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
+ [IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
   
         4.1.5 Modelo de Casos de Uso de Requerimientos.
- ![image](https://user-images.githubusercontent.com/82493473/171303539-da857245-693e-4cb2-a919-2c6ce157e421.png)
+ [image](https://user-images.githubusercontent.com/82493473/171303539-da857245-693e-4cb2-a919-2c6ce157e421.png)
       
         4.1.6 Plantilla de especificación de casos de uso.
 ![image](https://raw.githubusercontent.com/wcondorico/Prueba/main/cun1.png)
@@ -153,15 +153,25 @@
 
                 3.2.1.2.	DIAGRAMAS DE SECUENCIAS Y COLABORACION DE ANALISIS
 GENERAR VENTA
+
 ![image](https://user-images.githubusercontent.com/82493473/171301890-e1d82607-84f8-4bf8-b22e-aacaae02883b.png)
+
 REGISTRAR PEDIDO
+
 ![image](https://user-images.githubusercontent.com/82493473/171302775-a4d05965-737c-4cca-8c1c-1176f2bf6e0a.png)
+
 VERIFICAR PEDIDO
+
 ![image](https://user-images.githubusercontent.com/82493473/171302839-dca28f29-0317-4ec2-bd81-ec0554bd3700.png)
+
 ACTUALIZAR STOCK
+
 ![image](https://user-images.githubusercontent.com/82493473/171302883-7040f388-b498-4723-8981-d373d5759e63.png)
+
 REGISTRAR CLIENTE
+
 ![image](https://user-images.githubusercontent.com/82493473/171302916-3008a68d-cdb6-4cdf-983b-07b9611f2645.png)
+
 ![REQUERIMIENTOS](https://user-images.githubusercontent.com/82493473/171303112-4954e33a-99b9-4d9f-a78c-49e389d96f19.JPG)
 
                 
