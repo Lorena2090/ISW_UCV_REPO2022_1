@@ -205,6 +205,5 @@ Jorge David Molina (Abril del 2015), Planificación e implementación de un mode
 https://dspace.ups.edu.ec/bitstream/123456789/10267/1/UPS-GT001298.pdf
 
 
-![PORCENTAJE DE PARTICIPACION jpgxlsx](https://user-images.githubusercontent.com/82493473/167539824-08d2c785-c2b4-4b34-982d-818216ad0c28.JPG)
 
 
