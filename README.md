@@ -68,6 +68,7 @@
 
 
      2.5. 0RGANIGRAMA
+     
 ![ORGANIGRAMA](https://user-images.githubusercontent.com/82493473/165431016-9638bb4e-99db-4665-ace4-acae18a80685.JPG)
 
 
