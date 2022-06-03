@@ -12,7 +12,7 @@
                                Facundo Apolinario, Fernando Alexander. (Orcid- 0000-0003-4342-0753) (15% Trabajo)
                                Galdós Flores Giuliano. (Orcid- 0000-0002-9085-3116) (15% Trabajo)
                                Tuesta Shardin Lorena Katherin. (Orcid- 0000-0002-4824-2362) (100% Trabajo)
-                               Vásquez Alvarado Xavier Jesus. (Orcid- 0000-0001-7499-7016) (15% Trabajo)
+                               Vasquez Alvarado Xavier Jesus. (Orcid- 0000-0001-7499-7016) (15% Trabajo)
 
                                                           CURSO
                                                    INGENIERÍA DE SOFTWARE
