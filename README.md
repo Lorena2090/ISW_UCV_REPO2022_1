@@ -188,6 +188,9 @@ REGISTRAR CLIENTE
    4.3.	DISEÑO ORIENTADO A OBJETOS 
         4.3.1.	MODELO FISICO
                 4.3.1.1 CREACION DE ESQUEMA Y TABLAS
+                
+![Uploading DISEÑO LOGICO.jpeg…]()
+
         4.3.2 ESTRUCTURA MODULAR DEL SWOO
                 4.3.2.1. DISEÑO DE VENTANAS
                 4.3.2.2. DISEÑO DE REPORTES
