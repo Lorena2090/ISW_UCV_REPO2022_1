@@ -98,7 +98,13 @@
 2. Aspectos del Negocio
   
     3.1 Problematica Actual ó Analisis Situacional.
-        Se desarrollara luego de la entrevista 
+        Anteiormente las personas no exigian de tal modo lo que hacen ahora mismo con los productos o servicios
+        que podemos brindadar a la empresa, con respecto a este rubro hay mucha demanda y una de las claves es la 
+        el tipo de garantia que se pueda brindar.
+        
+        El gran numero de empresas con vision de seguridad fue aumentando año tras años, por ende la ardua demanda de 
+        patentes a la vigilancia a crecido de tal manera fluyente.
+        
   
 3. Metodologia
  
@@ -145,15 +151,15 @@
         
 ![Diagrama de Clases](https://user-images.githubusercontent.com/82493473/165433207-e92a2b8e-e172-47f0-8bc9-47497d6a2e56.png)
 
-   4.2.	ANALISIS ORIENTADO A OBJETOS
+   3.2.	ANALISIS ORIENTADO A OBJETOS
    
-        4.2.1.	MODELO DE ANALISIS
+        3.2.1.	MODELO DE ANALISIS
         
-                4.2.1.1.	DIAGRAMA DE ANALISIS Y CLASES
+                3.2.1.1.	DIAGRAMA DE ANALISIS Y CLASES
                 
 ![image](https://user-images.githubusercontent.com/82493473/171301819-50ceaa1b-9fa8-4a3d-9beb-a8ae5f22da7c.png)
 
-                4.2.1.2.	DIAGRAMAS DE SECUENCIAS Y COLABORACION DE ANALISIS
+                3.2.1.2.	DIAGRAMAS DE SECUENCIAS Y COLABORACION DE ANALISIS
 GENERAR VENTA
 
 ![image](https://user-images.githubusercontent.com/82493473/171301890-e1d82607-84f8-4bf8-b22e-aacaae02883b.png)
@@ -185,20 +191,42 @@ REGISTRAR CLIENTE
 
 
 
-   4.3.	DISEÑO ORIENTADO A OBJETOS 
-        4.3.1.	MODELO FISICO
-                4.3.1.1 CREACION DE ESQUEMA Y TABLAS
-                
-![Uploading DISEÑO LOGICO.jpeg…]()
+   3.3.	DISEÑO ORIENTADO A OBJETOS 
+        3.3.1.	MODELO FISICO
+                3.3.1.1 CREACION DE ESQUEMA Y TABLAS
+![modelo logico](https://user-images.githubusercontent.com/82493473/176987380-93f6b3bc-ce21-4294-aa78-db56d8a8d5c7.jpeg)
 
-        4.3.2 ESTRUCTURA MODULAR DEL SWOO
-                4.3.2.1. DISEÑO DE VENTANAS
-                4.3.2.2. DISEÑO DE REPORTES
-        4.3.3 DIAGRAMA DE LA CAPA DE PRESENTACIÓN
-        4.3.4 DIAGRAMAS DE LA CAPA DE NEGOCIO
-        4.3.5. DIAGRAMA DE LA CAPA DE DATOS
-        4.3.6. DIAGRAMAS DE COMPONENTES
-        4.3.7. DIAGRAMAS DE DISTRIBUCIÓN
+
+        3.3.2 ESTRUCTURA MODULAR DEL SWOO
+                3.3.2.1. DISEÑO DE VENTANAS
+                login
+ ![image](https://user-images.githubusercontent.com/82493473/176987385-483ff8ff-77ed-42b1-9ad9-87da90b09ae7.png)
+ 
+ USUARIO-ADMINISTRADOR
+ ![image](https://user-images.githubusercontent.com/82493473/176987421-6c243cac-39c5-40a7-9baf-8a96a647dad0.png)
+ ![image](https://user-images.githubusercontent.com/82493473/176987425-4dfb7d59-23e2-4eb1-bb8e-fc2d80e800b3.png)
+
+     BOTON PERFIL  
+  ![image](https://user-images.githubusercontent.com/82493473/176987434-f39b63fb-eee6-4172-bb1c-51c4d51df0ec.png)
+  
+    BOTON GESTION
+   ![image](https://user-images.githubusercontent.com/82493473/176987444-16c6bee4-2024-4d3b-a372-55e9c7b0b2c3.png)
+
+
+                3.3.2.2. DISEÑO DE REPORTES
+                REPORTE DE PRODUCTOS
+   ![image](https://user-images.githubusercontent.com/82493473/176987452-3373435d-0e28-4769-bfdc-c065cdc47f8f.png)
+   
+                REPORTE DE USUARIOS
+   ![image](https://user-images.githubusercontent.com/82493473/176987458-1e6ecff6-ead0-4656-a83f-ba4134d5cc9e.png)
+
+
+                
+        3.3.3 DIAGRAMA DE LA CAPA DE PRESENTACIÓN
+        3.3.4 DIAGRAMAS DE LA CAPA DE NEGOCIO
+        3.3.5. DIAGRAMA DE LA CAPA DE DATOS
+        3.3.6. DIAGRAMAS DE COMPONENTES
+        3.3.7. DIAGRAMAS DE DISTRIBUCIÓN
 
 
 
@@ -208,7 +236,8 @@ REGISTRAR CLIENTE
 CONCLUSIONES Y RECOMENDACIONES
 
 REFERENCIAS
-Jorge David Molina (Abril del 2015), Planificación e implementación de un modelo         logístico para optimizar la distribución de productos publicitarios en la empresa Letreros Universales S. A
+Jorge David Molina (Abril del 2015), Planificación e implementación de un modelo logístico para optimizar la distribución
+de productos publicitarios en la empresa Letreros Universales S.A 
 https://dspace.ups.edu.ec/bitstream/123456789/10267/1/UPS-GT001298.pdf
 
 
