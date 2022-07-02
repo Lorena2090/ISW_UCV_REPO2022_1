@@ -187,6 +187,7 @@ REGISTRAR CLIENTE
         3.2.3.	LISTA DE CLASES DE CONTROL
         
         3.2.4.	LISTA DE CLASES DE ENTIDADES
+        
 ![isww](https://user-images.githubusercontent.com/82493473/171302284-c412d930-b23f-4090-9630-63c45d3a251f.JPG)    
 
         3.2.5.	MODELO LOGICO DE CLASES
@@ -201,25 +202,36 @@ REGISTRAR CLIENTE
 
         3.3.2 ESTRUCTURA MODULAR DEL SWOO
                 3.3.2.1. DISEÑO DE VENTANAS
-   LOGIN
+                
+  LOGIN
+  
  ![image](https://user-images.githubusercontent.com/82493473/176987385-483ff8ff-77ed-42b1-9ad9-87da90b09ae7.png)
  
-   USUARIO-ADMINISTRADOR
+   USUARIO
+   
  ![image](https://user-images.githubusercontent.com/82493473/176987421-6c243cac-39c5-40a7-9baf-8a96a647dad0.png)
+ 
+   ADMINISTRADOR
+ 
  ![image](https://user-images.githubusercontent.com/82493473/176987425-4dfb7d59-23e2-4eb1-bb8e-fc2d80e800b3.png)
 
-   BOTON PERFIL  
+   BOTON PERFIL 
+   
   ![image](https://user-images.githubusercontent.com/82493473/176987434-f39b63fb-eee6-4172-bb1c-51c4d51df0ec.png)
   
-    BOTON GESTION
+   BOTON GESTION
+    
    ![image](https://user-images.githubusercontent.com/82493473/176987444-16c6bee4-2024-4d3b-a372-55e9c7b0b2c3.png)
 
 
                 3.3.2.2. DISEÑO DE REPORTES
+                
     REPORTE DE PRODUCTOS
+    
    ![image](https://user-images.githubusercontent.com/82493473/176987452-3373435d-0e28-4769-bfdc-c065cdc47f8f.png)
    
-                REPORTE DE USUARIOS
+     REPORTE DE USUARIOS
+     
    ![image](https://user-images.githubusercontent.com/82493473/176987458-1e6ecff6-ead0-4656-a83f-ba4134d5cc9e.png)
 
 
