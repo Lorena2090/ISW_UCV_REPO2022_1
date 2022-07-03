@@ -85,15 +85,41 @@
 [![recursos-humanos.png](https://i.postimg.cc/W3Rzdd5j/recursos-humanos.png)](https://postimg.cc/mcwBqgx6)
      
         1.6.3 Software
-        
-[![software.png](https://i.postimg.cc/q7msCX9n/software.png)](https://postimg.cc/5HCYhv9N)
+                1.6.3.1	NETBEANS 8.2: Es un entorno de desarrollo integrado de código abierto y gratuito para el desarrollo
+                      de aplicaciones en los sistemas operativos
+
+                2.6.3.1	MICROSOFT SQL SERVER MANAGEMENT STUDIO 18: Es una herramienta para almacenar toda la información 
+                        deseada en base de datos relacionales, como también administrar dichos datos sin complicaciones.
+
+                3.6.3.1	ENTERPRISE ARCHITEC: El software Enterprise architect es una plataforma de modelado, diseño y 
+                        administración colaborativa, basada en UML (Lenguaje Unificado de modelado). La plataforma es ágil, 
+                        intuitiva y extensible, en la que contiene diversas características para dominios diseñados para los 
+                        diferentes usos mencionados o requeridos
+
+                4.6.3.1	GITHUB: Repositorio online gratuito que permite gestionar proyectos y controlar versiones de código.
+                        Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad a millones 
+                        de personas de todo el mundo a cooperar en ellos.
+
+
+                5.6.3.1	MICROSOFT OFFICE WORD 2016: Microsoft Word es un programa completo de procesamiento de texto para los 
+                        sistemas operativos Windows y Mac.
+
+                6.6.3.1	MICROSOFT OFFICE EXCEL 2016: Microsoft Excel es un programa de hojas de cálculo que permite realizar 
+                        cálculos y contiene herramientas de gráficos, tablas dinámicas entre otros.
+
+                7.6.3.1	TRELLO: Trello es una herramienta visual que permite a los equipos gestionar cualquier tipo de proyecto y
+                        flujos de trabajo, por ende esta constante la supervisión de las tareas personalizándolas con todo según 
+                          las necesidades de tu equipo.
+
+
 
         1.6.4 Hardware
         
 [![hardware.png](https://i.postimg.cc/h47pd6M0/hardware.png)](https://postimg.cc/qg4sfmPt)
 
         1.6.5 Cronograma de Actividades
-![Cronograma_de_Actividades](https://user-images.githubusercontent.com/82493473/165433410-88c4c162-c3f5-4f2f-b80a-e57f126fb870.JPG)
+![image](https://user-images.githubusercontent.com/82493473/177025536-e218f6ea-a0fc-40e2-a1a5-b9972a137722.png)
+
 
 2. Aspectos del Negocio
   
@@ -110,37 +136,40 @@
  
     3.1. Modelo de Requerimientos.
    
-        3.1.1 Cuadro de Requerimientos Funcionales, indicando: identificativo, nombre y descripción.
-![Requerimientos_Funcionales](https://user-images.githubusercontent.com/82493473/167751709-5828017f-7405-4429-a636-5b32783939df.JPG)
+        3.1.1 Cuadro de Requerimientos Funcionales.
+        
+![image](https://user-images.githubusercontent.com/82493473/177025568-7a257a81-0518-4cca-9fd3-b8efdb1e185e.png)
 
       
-        3.1.2 Cuadro de requerimientos no funcionales, indicando: identificativo, nombre y descripcion.
+        3.1.2 Cuadro de requerimientos no funcionales.
         
-![RNF](https://user-images.githubusercontent.com/103294307/167752693-cccd5a68-112b-4a87-8f58-60125f42a3a4.JPG)
+![image](https://user-images.githubusercontent.com/82493473/177025583-30af1a51-d7e0-4112-8e86-b677cbefdea2.png)
   
-        3.1.3 Relación de actores y su descripción, cuadro indicando
+        3.1.3 Relación de actores.
         
-![image](https://user-images.githubusercontent.com/82493473/167751274-d2b1849f-68ef-4d14-b52d-7ad11805d85f.png)
-
-![image](https://user-images.githubusercontent.com/82493473/167751664-242b204f-a93d-4fcf-9261-0954dda4c539.png)
+![image](https://user-images.githubusercontent.com/82493473/177025636-d2b9e08c-209b-4285-9460-dadfd155dd16.png)
          
-        3.1.4 Relación de casos de uso, cuadro indicando:
+        3.1.4 Relación de casos de uso.
         
- ![IMAGEN](https://raw.githubusercontent.com/wcondorico/Prueba/main/Relacion%20cun.jpg)
-  
+![image](https://user-images.githubusercontent.com/82493473/177025673-6b9b75a4-3c49-45b6-97ab-a3ba21139c5c.png)
+
         3.1.5 Modelo de Casos de Uso de Requerimientos.
         
 ![image](https://user-images.githubusercontent.com/82493473/171305536-20c22fc1-0b8f-4fe8-9a63-f5243886d77f.png)
       
         3.1.6 Plantilla de especificación de casos de uso.
         
-![1](https://user-images.githubusercontent.com/82493473/171305420-be8253bb-6178-4183-b3a2-ee510f339a31.JPG)
-![2](https://user-images.githubusercontent.com/82493473/171305428-48544540-cfbf-486a-ba92-faf25210d1c6.JPG)
-![3](https://user-images.githubusercontent.com/82493473/171305434-e86179b7-6763-4f99-8e70-73325529b52a.JPG)
-![4](https://user-images.githubusercontent.com/82493473/171305440-31894850-27cb-4774-af0f-739eed37c0c7.JPG)
-![5](https://user-images.githubusercontent.com/82493473/171305442-39295ce6-8a9c-4156-bc05-58d0a32b51d2.JPG)
-![6](https://user-images.githubusercontent.com/82493473/171305447-ce38f862-6b0f-4d62-961c-41baf0e2afcd.JPG)
-![7](https://user-images.githubusercontent.com/82493473/171305453-571175e1-204c-4561-b890-288b35037845.JPG)
+![image](https://user-images.githubusercontent.com/82493473/177025708-bb2187c2-9fac-4d5b-a9fd-24dfa2017838.png)
+
+![image](https://user-images.githubusercontent.com/82493473/177025714-510f455c-0736-4c0c-b940-827af88bce0c.png)
+
+![image](https://user-images.githubusercontent.com/82493473/177025741-d1e86074-70b2-4393-a8b2-ff1a6e0bc8d7.png)
+
+![image](https://user-images.githubusercontent.com/82493473/177025749-cda61fe5-bd44-4c51-9011-341d646ee162.png)
+
+![image](https://user-images.githubusercontent.com/82493473/177025764-7c849a87-bcfb-4747-837b-f97c5ef707f9.png)
+
+![image](https://user-images.githubusercontent.com/82493473/177025774-8f85b368-c48a-4f74-8757-48a4d87b3bb3.png)
 
         3.1.7 Matriz de trazabilidad de los requerimientos y casos de uso 
 
@@ -184,8 +213,13 @@ REGISTRAR CLIENTE
 
                 
         3.2.2.	LISTA DE CLASES DE INTERFAZ
+        
+![image](https://user-images.githubusercontent.com/82493473/177025980-097ea73e-4230-4576-8eba-f8e35876869a.png)
+
         3.2.3.	LISTA DE CLASES DE CONTROL
         
+![image](https://user-images.githubusercontent.com/82493473/177026008-261e479b-c8cc-4c58-bba6-01556c4c29b8.png)
+
         3.2.4.	LISTA DE CLASES DE ENTIDADES
         
 ![isww](https://user-images.githubusercontent.com/82493473/171302284-c412d930-b23f-4090-9630-63c45d3a251f.JPG)    
@@ -239,6 +273,9 @@ REGISTRAR CLIENTE
         3.3.3 DIAGRAMA DE LA CAPA DE PRESENTACIÓN
         3.3.4 DIAGRAMAS DE LA CAPA DE NEGOCIO
         3.3.5. DIAGRAMA DE LA CAPA DE DATOS
+        
+    ![image](https://user-images.githubusercontent.com/82493473/177025921-c3448980-dafa-4008-b43f-3c624e96663a.png)
+
         3.3.6. DIAGRAMAS DE COMPONENTES
         3.3.7. DIAGRAMAS DE DISTRIBUCIÓN
 
