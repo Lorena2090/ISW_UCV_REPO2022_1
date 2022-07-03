@@ -67,11 +67,6 @@
      
 ![ORGANIGRAMA](https://user-images.githubusercontent.com/82493473/165431016-9638bb4e-99db-4665-ace4-acae18a80685.JPG)
 
-
-
-
-
-
     1.6. AMBITO DEL PROYECTO
 
          1.6.1 Area
@@ -109,7 +104,7 @@
 
                 7.6.3.1	TRELLO: Trello es una herramienta visual que permite a los equipos gestionar cualquier tipo de proyecto y
                         flujos de trabajo, por ende esta constante la supervisión de las tareas personalizándolas con todo según 
-                          las necesidades de tu equipo.
+                         las necesidades de tu equipo.
 
 
 
@@ -118,6 +113,7 @@
 [![hardware.png](https://i.postimg.cc/h47pd6M0/hardware.png)](https://postimg.cc/qg4sfmPt)
 
         1.6.5 Cronograma de Actividades
+        
 ![image](https://user-images.githubusercontent.com/82493473/177025536-e218f6ea-a0fc-40e2-a1a5-b9972a137722.png)
 
 
@@ -189,6 +185,7 @@
 ![image](https://user-images.githubusercontent.com/82493473/171301819-50ceaa1b-9fa8-4a3d-9beb-a8ae5f22da7c.png)
 
                 3.2.1.2.	DIAGRAMAS DE SECUENCIAS Y COLABORACION DE ANALISIS
+                
 GENERAR VENTA
 
 ![image](https://user-images.githubusercontent.com/82493473/171301890-e1d82607-84f8-4bf8-b22e-aacaae02883b.png)
@@ -208,6 +205,7 @@ ACTUALIZAR STOCK
 REGISTRAR CLIENTE
 
 ![image](https://user-images.githubusercontent.com/82493473/171302916-3008a68d-cdb6-4cdf-983b-07b9611f2645.png)
+
 
 ![REQUERIMIENTOS](https://user-images.githubusercontent.com/82493473/171303112-4954e33a-99b9-4d9f-a78c-49e389d96f19.JPG)
 
@@ -229,15 +227,19 @@ REGISTRAR CLIENTE
 
 
    3.3.	DISEÑO ORIENTADO A OBJETOS 
+   
         3.3.1.	MODELO FISICO
+        
                 3.3.1.1 CREACION DE ESQUEMA Y TABLAS
+                
 ![modelo logico](https://user-images.githubusercontent.com/82493473/176987380-93f6b3bc-ce21-4294-aa78-db56d8a8d5c7.jpeg)
 
 
         3.3.2 ESTRUCTURA MODULAR DEL SWOO
+        
                 3.3.2.1. DISEÑO DE VENTANAS
                 
-  LOGIN
+   LOGIN
   
  ![image](https://user-images.githubusercontent.com/82493473/176987385-483ff8ff-77ed-42b1-9ad9-87da90b09ae7.png)
  
@@ -274,8 +276,7 @@ REGISTRAR CLIENTE
         3.3.4 DIAGRAMAS DE LA CAPA DE NEGOCIO
         3.3.5. DIAGRAMA DE LA CAPA DE DATOS
         
-    ![image](https://user-images.githubusercontent.com/82493473/177025921-c3448980-dafa-4008-b43f-3c624e96663a.png)
-
+ ![CAPADEDATOS](https://user-images.githubusercontent.com/82493473/177026900-ad864747-228c-4f9e-8606-6c3dc416dfb7.jpeg)
         3.3.6. DIAGRAMAS DE COMPONENTES
         3.3.7. DIAGRAMAS DE DISTRIBUCIÓN
 
