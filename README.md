@@ -119,7 +119,7 @@
 
 2. Aspectos del Negocio
   
-    3.1 Problematica Actual ó Analisis Situacional.
+    2.1 Problematica Actual ó Analisis Situacional.
         Anteiormente las personas no exigian de tal modo lo que hacen ahora mismo con los productos o servicios
         que podemos brindadar a la empresa, con respecto a este rubro hay mucha demanda y una de las claves es la 
         el tipo de garantia que se pueda brindar.
@@ -132,12 +132,12 @@
  
     3.1. Modelo de Requerimientos.
    
-        3.1.1 Cuadro de Requerimientos Funcionales.
+        3.1.1 Cuadro de Requerimientos funcionales
         
 ![image](https://user-images.githubusercontent.com/82493473/177025568-7a257a81-0518-4cca-9fd3-b8efdb1e185e.png)
 
       
-        3.1.2 Cuadro de requerimientos no funcionales.
+        3.1.2 Cuadro de Requerimientos NO funcionales
         
 ![image](https://user-images.githubusercontent.com/82493473/177025583-30af1a51-d7e0-4112-8e86-b677cbefdea2.png)
   
