@@ -278,6 +278,9 @@ REGISTRAR CLIENTE
        
         
         3.3.4 DIAGRAMAS DE LA CAPA DE NEGOCIO
+        
+ [![negocio.png](https://i.postimg.cc/kGhJ8rnB/negocio.png)](https://postimg.cc/m1CWf51s)
+ 
         3.3.5. DIAGRAMA DE LA CAPA DE DATOS
         
  ![CAPADEDATOS](https://user-images.githubusercontent.com/82493473/177026900-ad864747-228c-4f9e-8606-6c3dc416dfb7.jpeg)
