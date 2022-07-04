@@ -274,7 +274,8 @@ REGISTRAR CLIENTE
                 
         3.3.3 DIAGRAMA DE LA CAPA DE PRESENTACIÓN
         
-        [![capa-de-presentacion.png](https://i.postimg.cc/c4W840VJ/capa-de-presentacion.png)](https://postimg.cc/MXsG92Zk)
+ [![capa-de-presentacion.png](https://i.postimg.cc/c4W840VJ/capa-de-presentacion.png)](https://postimg.cc/MXsG92Zk)
+       
         
         3.3.4 DIAGRAMAS DE LA CAPA DE NEGOCIO
         3.3.5. DIAGRAMA DE LA CAPA DE DATOS
