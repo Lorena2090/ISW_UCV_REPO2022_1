@@ -8,11 +8,11 @@
                                                           INTEGRANTES
                        
                                Bravo Ludeña Gianfranco Eduardo. (Orcid- 0000-0002-7632-6651) (100% Trabajo)
-                               Condor Condori Willian Anthony. (Orcid- 0000-0001-5538-0627)  (15% Trabajo)
-                               Facundo Apolinario, Fernando Alexander. (Orcid- 0000-0003-4342-0753) (15% Trabajo)
-                               Galdós Flores Giuliano. (Orcid- 0000-0002-9085-3116) (15% Trabajo)
+                               Condor Condori Willian Anthony. (Orcid- 0000-0001-5538-0627)  (100% Trabajo)
+                               Facundo Apolinario, Fernando Alexander. (Orcid- 0000-0003-4342-0753) (100% Trabajo)
+                               Galdós Flores Giuliano. (Orcid- 0000-0002-9085-3116) (100% Trabajo)
                                Tuesta Shardin Lorena Katherin. (Orcid- 0000-0002-4824-2362) (100% Trabajo)
-                               Vasquez Alvarado Xavier Jesus. (Orcid- 0000-0001-7499-7016) (15% Trabajo)
+                               Vasquez Alvarado Xavier Jesus. (Orcid- 0000-0001-7499-7016) (100% Trabajo)
 
                                                           CURSO
                                                    INGENIERÍA DE SOFTWARE
