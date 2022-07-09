@@ -283,8 +283,13 @@ REGISTRAR CLIENTE
  
         3.3.5. DIAGRAMA DE LA CAPA DE DATOS
         
- ![CAPADEDATOS](https://user-images.githubusercontent.com/82493473/177026900-ad864747-228c-4f9e-8606-6c3dc416dfb7.jpeg)
+![CAPAS](https://user-images.githubusercontent.com/82493473/178091062-ec940831-546e-4e0a-9513-33abe590a5db.jpeg)
+
+ 
         3.3.6. DIAGRAMAS DE COMPONENTES
+        
+![COMPONENTES](https://user-images.githubusercontent.com/82493473/178091067-47bca4ab-8931-4877-8cda-f5cda25cb601.jpeg)
+
         3.3.7. DIAGRAMAS DE DISTRIBUCIÓN
 
 
