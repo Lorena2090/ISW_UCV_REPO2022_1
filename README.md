@@ -301,10 +301,14 @@ REGISTRAR CLIENTE
 
 CONCLUSIONES Y RECOMENDACIONES
 
-REFERENCIAS
-Jorge David Molina (Abril del 2015), Planificación e implementación de un modelo logístico para optimizar la distribución
-de productos publicitarios en la empresa Letreros Universales S.A 
-https://dspace.ups.edu.ec/bitstream/123456789/10267/1/UPS-GT001298.pdf
+Es de veraz la importancia de la empresa, visualize y a la vez analizando ciertas tendencias o estrategias que existen en el mercado en nuestra actualidad a la vez poder dar a conocer un nuevo y renovado distintivo hacia la comunidad en General, para ello es muy importante estudiar el mercado a cada milimetro y asi ofrecer la mejor imnovacion.
+
+La Empresa va en un crecimiento de manera muy rapida gracias al exito que cada uno los integrantes de la asociacion extienden sus conociemntos de manera escencial y voraz de esa manera se puso concretar una entregra exitosa quedando ambas partes a buen recardo.
+
+
+
+
+
 
 
 
