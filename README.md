@@ -19,6 +19,8 @@
 
                                                           DOCENTE 
                                  Ing. Richard Leonardo Berrocal Navarro(ORCID: 0000-0001-8718-3150)
+                                 
+                                                         Grupo N° 8
 
                                                              CICLO
                                                               V
