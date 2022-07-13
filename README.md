@@ -244,14 +244,15 @@ REGISTRAR CLIENTE
   
  ![image](https://user-images.githubusercontent.com/82493473/176987385-483ff8ff-77ed-42b1-9ad9-87da90b09ae7.png)
  
- ACTUALIZADO
+ ACTUALIZACION DEL LOGIN
  
  ![image](https://user-images.githubusercontent.com/82493473/178656770-4f7dd712-d254-44e2-87e9-4f44c0b0d8bd.png)
 
+PANEL PRINCIPAL
  
  ![image](https://user-images.githubusercontent.com/82493473/178656803-1bbb6e83-b906-40d6-9b9c-5aca8c1bda8f.png)
  
- 
+  
  ![image](https://user-images.githubusercontent.com/82493473/178656832-4cd818d7-5a50-4462-a9b4-6af2406b5b51.png)
 
 
