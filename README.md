@@ -276,19 +276,7 @@ BOLETA DE VENTA
 
 ![image](https://user-images.githubusercontent.com/82493473/178656977-4eaacc34-d02b-4990-a0cf-61dba203bd31.png)
 
-   ADMINISTRADOR
- 
- ![image](https://user-images.githubusercontent.com/82493473/176987425-4dfb7d59-23e2-4eb1-bb8e-fc2d80e800b3.png)
-
-   BOTON PERFIL 
-   
-  ![image](https://user-images.githubusercontent.com/82493473/176987434-f39b63fb-eee6-4172-bb1c-51c4d51df0ec.png)
   
-   BOTON GESTION
-    
-   ![image](https://user-images.githubusercontent.com/82493473/176987444-16c6bee4-2024-4d3b-a372-55e9c7b0b2c3.png)
-
-
                 3.3.2.2. DISEÑO DE REPORTES
                 
     REPORTE DE PRODUCTOS
