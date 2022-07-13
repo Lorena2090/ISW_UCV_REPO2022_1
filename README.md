@@ -244,10 +244,37 @@ REGISTRAR CLIENTE
   
  ![image](https://user-images.githubusercontent.com/82493473/176987385-483ff8ff-77ed-42b1-9ad9-87da90b09ae7.png)
  
+ ACTUALIZADO
+ 
+ ![image](https://user-images.githubusercontent.com/82493473/178656770-4f7dd712-d254-44e2-87e9-4f44c0b0d8bd.png)
+
+ 
+ ![image](https://user-images.githubusercontent.com/82493473/178656803-1bbb6e83-b906-40d6-9b9c-5aca8c1bda8f.png)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/82493473/178656832-4cd818d7-5a50-4462-a9b4-6af2406b5b51.png)
+
+
    USUARIO
    
- ![image](https://user-images.githubusercontent.com/82493473/176987421-6c243cac-39c5-40a7-9baf-8a96a647dad0.png)
+ ![image](https://user-images.githubusercontent.com/82493473/178656848-30c1029b-89d5-4fac-9404-3b6b3227b171.png)
  
+ PROVEEDOR
+ 
+ ![image](https://user-images.githubusercontent.com/82493473/178656875-35d39928-b0a4-42ca-a538-a3dae4b5e242.png)
+
+PRODUCTO
+ 
+ ![image](https://user-images.githubusercontent.com/82493473/178656913-9e51ddf0-72a4-458e-a743-208e518238f4.png)
+
+ REGISTRO DE VENTAS
+ 
+ ![image](https://user-images.githubusercontent.com/82493473/178656947-1af03f73-db62-4c0a-b618-a77cffc86d04.png)
+
+BOLETA DE VENTA
+
+![image](https://user-images.githubusercontent.com/82493473/178656977-4eaacc34-d02b-4990-a0cf-61dba203bd31.png)
+
    ADMINISTRADOR
  
  ![image](https://user-images.githubusercontent.com/82493473/176987425-4dfb7d59-23e2-4eb1-bb8e-fc2d80e800b3.png)
