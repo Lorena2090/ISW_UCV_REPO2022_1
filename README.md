@@ -226,15 +226,14 @@ REGISTRAR CLIENTE
 
         3.2.5.	MODELO LOGICO DE CLASES
 
-
+![modelo logico](https://user-images.githubusercontent.com/82493473/176987380-93f6b3bc-ce21-4294-aa78-db56d8a8d5c7.jpeg)
 
    3.3.	DISEÑO ORIENTADO A OBJETOS 
    
         3.3.1.	MODELO FISICO
         
                 3.3.1.1 CREACION DE ESQUEMA Y TABLAS
-                
-![modelo logico](https://user-images.githubusercontent.com/82493473/176987380-93f6b3bc-ce21-4294-aa78-db56d8a8d5c7.jpeg)
+![tablas](https://user-images.githubusercontent.com/103294307/178626031-14c814e0-f711-4705-aca8-315cfe4b5f86.jpg)
 
 
         3.3.2 ESTRUCTURA MODULAR DEL SWOO
